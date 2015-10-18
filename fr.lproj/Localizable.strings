@@ -11,7 +11,7 @@
 "2. iOS Video" = "2. Vidéo iOS";
 
 /* PHEmailViewController.m */
-"\nCheck your internet connection & try again. If problem persists, try in an hour or so. (Perhaps website construction?)" = "\nVérifiez votre connection Internet et réessayez. Si le problème persiste, essayez dans environ une heure. (Le site web pourrait être en construction.)";
+"\nCheck your internet connection & try again. If problem persists, try in an hour or so. (Perhaps website construction?)" = "\nVérifiez votre connection internet et réessayez. Si le problème persiste, réessayez dans une heure ou deux. (Peut être le site est-il en construction ?)";
 
 /* PHEmailViewController.m */
 "\nIt can take up to a week+ for a reply depending on the current volume of emails." = "\nIl peut prendre jusqu'à plus d'une semaine pour obtenir une réponse dépendamment du nombre d'emails à traiter.";
