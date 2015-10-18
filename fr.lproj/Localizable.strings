@@ -14,7 +14,7 @@
 "\nCheck your internet connection & try again. If problem persists, try in an hour or so. (Perhaps website construction?)" = "\nVérifiez votre connection internet et réessayez. Si le problème persiste, réessayez dans une heure ou deux. (Peut être le site est-il en construction ?)";
 
 /* PHEmailViewController.m */
-"\nIt can take up to a week+ for a reply depending on the current volume of emails." = "\nIl se peut que vous ayez à attendre une semaine ou plus pour obtenir une réponse en fonction du nombre d'emails à traiter.";
+"\nIt can take up to a week+ for a reply depending on the current volume of emails." = "\nIl se peut que le temps de réponse atteigne une semaine ou plus en fonction du nombre d'emails à traiter.";
 
 /* WorldWide */
 "\nThanks for installing Phantom. This tweak is POWERED by advertisements. Show your support by purchasing a license within Settings." = "\nMerci d'avoir installé Phantom. Ce tweak est PROPULSÉ par la publicité. Soutenez le développeur en achetant une licence dans les réglages.";
