@@ -1,8 +1,8 @@
 ﻿/* WorldWide */
-"%@ error!" = "%@ erreur!";
+"%@ error!" = "%@ erreur !";
 
 /* WorldWide */
-"%@ saved!" = "%@ sauvegardé!";
+"%@ saved!" = "%@ sauvegardé !";
 
 /* PHMediaUpload.m */
 "1. SC Video" = "1. Vidéo SC";
@@ -14,13 +14,13 @@
 "\nCheck your internet connection & try again. If problem persists, try in an hour or so. (Perhaps website construction?)" = "\nVérifiez votre connection internet et réessayez. Si le problème persiste, réessayez dans une heure ou deux. (Peut être le site est-il en construction ?)";
 
 /* PHEmailViewController.m */
-"\nIt can take up to a week+ for a reply depending on the current volume of emails." = "\nIl peut prendre jusqu'à plus d'une semaine pour obtenir une réponse dépendamment du nombre d'emails à traiter.";
+"\nIt can take up to a week+ for a reply depending on the current volume of emails." = "\nIl se peut que vous ayez à attendre une semaine ou plus pour obtenir une réponse en fonction du nombre d'emails à traiter.";
 
 /* WorldWide */
-"\nThanks for installing Phantom. This tweak is POWERED by advertisements. Show your support by purchasing a license within Settings." = "\nMerci d'avoir installé Phantom. Ce tweak est PROPULSÉ par la publicité. Démontrez votre support en achetant une licence dans les réglages.";
+"\nThanks for installing Phantom. This tweak is POWERED by advertisements. Show your support by purchasing a license within Settings." = "\nMerci d'avoir installé Phantom. Ce tweak est PROPULSÉ par la publicité. Soutenez le développeur en achetant une licence dans les réglages.";
 
 /* WorldWide */
-"A new version of Phantom is available:\n\nInstalled version: %@\nAvailable version: %@" = "Une nouvelle version de Phantom est disponible:\n\nVersion installée: %@\nVersion disponible: %@";
+"A new version of Phantom is available:\n\nInstalled version: %@\nAvailable version: %@" = "Une nouvelle version de Phantom est disponible :\n\nVersion installée : %@\nVersion disponible : %@";
 
 /* SettingsHook */
 "A wild iPad appeared!\n\nWould you like to use @rpetrich's \n\"Full Force\" tweak packaged within Phantom to enable iPad mode? \n\nIf you would like to download & use @rpetrich's separate tweak to use in multiple applications, press \"Use @rpetrich's\" button." = "Un iPad sauvage apparaît!\n\nAimeriez-vous utiliser le tweak \n\"Full Force\" de @rpetrich  dans Phantom pour activer le mode iPad? \n\nSi vous désirez télécharger & utiliser le tweak de @rpetrich séparément pour l'utiliser dans de multiples applications, appuyez sur le bouton \"Use @rpetrich's\".";
